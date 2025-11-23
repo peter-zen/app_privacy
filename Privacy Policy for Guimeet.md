@@ -1,47 +1,5 @@
 # Privacy Policy for Guimeet
 
-## 目录
-
-- [Privacy Policy](#Privacy-Policy)
-  - [Interpretation and Definitions](#Interpretation-and-Definitions)
-    - [Interpretation](#Interpretation)
-
-    - [Definitions](#Definitions)
-
-  - [Collecting and Using Your Personal Data](#Collecting-and-Using-Your-Personal-Data)
-    - [Types of Data Collected](#Types-of-Data-Collected)
-      - [Personal Data](#Personal-Data)
-
-      - [Usage Data](#Usage-Data)
-
-      - [Information Collected while Using the Application](#Information-Collected-while-Using-the-Application)
-
-    - [Use of Your Personal Data](#Use-of-Your-Personal-Data)
-
-    - [Retention of Your Personal Data](#Retention-of-Your-Personal-Data)
-
-    - [Transfer of Your Personal Data](#Transfer-of-Your-Personal-Data)
-
-    - [Delete Your Personal Data](#Delete-Your-Personal-Data)
-
-    - [Disclosure of Your Personal Data](#Disclosure-of-Your-Personal-Data)
-      - [Business Transactions](#Business-Transactions)
-
-      - [Law enforcement](#Law-enforcement)
-
-      - [Other legal requirements](#Other-legal-requirements)
-
-    - [Security of Your Personal Data](#Security-of-Your-Personal-Data)
-
-  - [Children's Privacy](#Childrens-Privacy)
-
-  - [Links to Other Websites](#Links-to-Other-Websites)
-
-  - [Changes to this Privacy Policy](#Changes-to-this-Privacy-Policy)
-
-  - [Contact Us](#Contact-Us)
-
-
 # Privacy Policy
 
 Last updated: November 13, 2025
