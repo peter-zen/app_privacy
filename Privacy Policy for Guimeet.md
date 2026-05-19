@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Last updated: November 13, 2025
+Last updated: May 19, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -55,6 +55,7 @@ We may also collect information that Your browser sends whenever You visit Our S
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
 - Information regarding your location
+- Your Wi-Fi network information (including Wi-Fi SSID/network name), to identify and connect to the specific Wi-Fi hotspot created by the camera device, in order to enable the camera connection feature
 - Pictures and other information from your Device's camera and photo library
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
