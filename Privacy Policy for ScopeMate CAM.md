@@ -1,7 +1,7 @@
 <h1>Privacy Policy — ScopeMate CAM</h1>
 
 <p><strong>Effective date:</strong> July 18, 2026<br>
-<strong>Application:</strong> ScopeMate CAM (Package name: <code>com.icatch.scopemate</code>)<br>
+<strong>Application:</strong> ScopeMate CAM (Package name: <code>com.hawel.scopematecam</code>)<br>
 <strong>Developer:</strong> ScopeMate</p>
 
 <p>This Privacy Policy describes how the ScopeMate CAM mobile application ("the App", "we", "us") handles information when you install and use the App. By downloading, installing, or using the App, you agree to the practices described in this Privacy Policy.</p>

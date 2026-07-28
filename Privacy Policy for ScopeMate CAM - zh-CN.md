@@ -1,7 +1,7 @@
 <h1>隐私政策 — ScopeMate CAM</h1>
 
 <p><strong>生效日期:</strong>2026 年 7 月 18 日<br>
-<strong>应用:</strong>ScopeMate CAM(包名:<code>com.icatch.scopemate</code>)<br>
+<strong>应用:</strong>ScopeMate CAM(包名:<code>com.hawel.scopematecam</code>)<br>
 <strong>开发者:</strong>ScopeMate</p>
 
 <p>本隐私政策说明 ScopeMate CAM 移动应用(以下简称"本应用"或"我们")在您安装和使用本应用时如何处理信息。下载、安装或使用本应用,即表示您同意本隐私政策所述的做法。</p>
